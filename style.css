@@ -9,7 +9,7 @@ body {
 /* Change the style of the title */
 h1 {
     color: white; /* Set the text color to white */
-    font-size: 24px; /* Set the font size to 24 pixels */
+    font-size: 30px; /* Set the font size to 24 pixels */
     text-align: center; /* Center-align the text */
-    padding: 20px; /* Add some padding around the text */
+    padding: 45px; /* Add some padding around the text */
 }
